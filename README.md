@@ -2,7 +2,7 @@
 
 INTRODUCTION
 
-This is an implementation of ContraVis - a method for contrastive and visual topic modeling.
+This is an implementation of ContraVis - contrastive and visual topic modeling for comparing document collections.
 
 Usage:
 
